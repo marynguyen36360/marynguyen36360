@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mary!
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python 🐍
+- ⚡ Fun fact: I like programming 😄
